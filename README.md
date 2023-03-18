@@ -1,4 +1,4 @@
-<h3> Details: </h3>
+<h3> Details of Project: </h3>
 
 -Analyzed Netflix data using Python libraries such as Pandas, Numpy, Plotly, and Textblob
 
