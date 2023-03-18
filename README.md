@@ -15,20 +15,30 @@ on Netflix is intended for viewing by mature and adult audiences.
 
 
 2. The top 5 directors on this platform are:
+
 Raul Campos
+
 Jan Suter
+
 Jay Karas
+
 Marcus Raboy
+
 Jay Chapman
 
 ![Top5Directors](https://user-images.githubusercontent.com/114832299/226129904-8ff7fbf3-fb12-4e90-acc7-588234c116be.png)
 
 
-3. the top 5 actors on Netflix are:
+3. The top 5 actors on Netflix are:
+
 Anupam Kher
+
 Om Puri
+
 Shah Rukh Khan
+
 Takahira Sakurai
+
 Boman Irani
 
 4. There has been a decline in the production of the content for both movies and other shows since 2018.
