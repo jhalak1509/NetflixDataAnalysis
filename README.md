@@ -1,3 +1,5 @@
+<h3> Details: </h3>
+
 -Analyzed Netflix data using Python libraries such as Pandas, Numpy, Plotly, and Textblob
 
 -Conducted sentiment analysis of Netflix data using Textblob
